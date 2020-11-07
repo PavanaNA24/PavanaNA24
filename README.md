@@ -6,4 +6,4 @@ Gist about me
 - 🌱 I have done 2 internships related to Web development.
 - 💻 Learning everyday, currently learning Full stack development Course from Upgrad.
 - 🔭 I'm always looking for challenging work oppurtunities ahead.
-- 📫 How to reach me:<a href="mail to: pavanasangeetha@gmail.com">Let's get in touch!</a>
+- 📫 How to reach me:<a href="mail to: pavanasangeetha@gmail.com ">Let's get in touch!</a>
